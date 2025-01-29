@@ -23,7 +23,7 @@ A ideia principal foi aprender mais sobre manipulação e visualização de dado
 ## Como Rodar o Projeto  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/AnimeDashboard.git
+   https://github.com/Hidan404/Analise-de-Dados-Animes-2024.git
    ```
 2. Instale as dependências:  
    ```bash
